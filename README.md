@@ -52,6 +52,7 @@ Download Microsoft Remote Desktop
 <p>
 <img src="https://i.imgur.com/s3HPcvx.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Now we need to install / Enable Internet Information Services(IIS) in Windows. Go to your Search Bar > Type "Control Panel" > Click "Programs" > "Turn Windows features on or off" > Scroll down to "Internet Information Services (IIS)
+</p> Open common HTTP features and make sure everything is checked off. 
+</p>In the World Wide Web Services, open the Application Development Features folder and check off CGI.
 <br />
