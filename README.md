@@ -54,5 +54,5 @@ Download Microsoft Remote Desktop
 <p>
 Now we need to install / Enable Internet Information Services(IIS) in Windows. Go to your Search Bar > Type "Control Panel" > Click "Programs" > "Turn Windows features on or off" > Scroll down to "Internet Information Services (IIS)
 </p> Open common HTTP features and make sure everything is checked off. 
-</p>In the World Wide Web Services, open the Application Development Features folder and check off CGI.
+</p>In the World Wide Web Services tab, open the Application Development Features folder and check off CGI.
 <br />
