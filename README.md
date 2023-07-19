@@ -56,3 +56,5 @@ Now we need to install / Enable Internet Information Services(IIS) in Windows. G
 </p> Open common HTTP features and make sure everything is checked off. 
 </p>In the World Wide Web Services tab, open the Application Development Features folder and check off CGI.
 <br />
+<p>
+<img src="https://imgur.com/vaOJiTT.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
