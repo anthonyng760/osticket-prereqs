@@ -63,30 +63,30 @@ Now we need to install / Enable Internet Information Services(IIS) in Windows. G
 <p> Install the Rewrite module.
 <p> Install the PHP 738 file, then create a directory "C:PHP", then unzip the contents in a c:PHP.
 <p>
-<img src="https://imgur.com/Ws9SLJt.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<img src="https://imgur.com/Ws9SLJt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 </p>
 Install VC redist file
 <p> Install MySQL - typical setup > Launch configuration Wizard (after install) > standard configuration option > set your own password.
 <p>
-<img src="https://imgur.com/Q6KJ9Lz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<img src="https://imgur.com/Q6KJ9Lz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <P>
 Install Osticket v1.15.8
 <p> Download osTicket (download from within lab files: link).
 <p> Extract and copy the “upload” folder INTO c:\inetpub\wwwroot
 <p>
-<img src="https://imgur.com/knuiOpR.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<img src="https://imgur.com/knuiOpR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>
  Rename the "upload" folder to "Osticket"
-<img src="https://imgur.com/mHmlhwo.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<img src="https://imgur.com/mHmlhwo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>
 Open IIS (Internet Information Services) > Look up IIS in the search bar and run as administrator
 <p> Go to sites -> Default -> osTicket:
 <p>
-<img src="https://imgur.com/H5YjSVg.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<img src="https://imgur.com/H5YjSVg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>
 On the right, click “Browse *:80” then you should see Osticket.
 <p>
-<img src="https://imgur.com/rxYZaB3.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<img src="https://imgur.com/rxYZaB3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>
 Enable Extensions in IIS: Note that some extensions are not enabled
 <p> Go back to IIS, sites -> Default -> osTicket
@@ -97,20 +97,20 @@ Enable Extensions in IIS: Note that some extensions are not enabled
 <p> Enable: php_opcache.dll
 <p> Refresh the osTicket site in your browse, observe the changes
 <p>
-<img src="https://imgur.com/PwQBagA.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<img src="https://imgur.com/PwQBagA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>
 Rename: ost-config.php
 <p> From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 <p> To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 <p>
-<img src="https://imgur.com/vWYrOk0.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<img src="https://imgur.com/vWYrOk0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>
 Assign Permissions: ost-config.php
 <p> Disable inheritance -> Remove All
 <p>
-<img src="https://imgur.com/q8Bxilz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p><p> 
+<img src="https://imgur.com/q8Bxilz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p> 
 <p>
 New Permissions -> Everyone -> All
 <p>
-<img src="https://imgur.com/EQqz1uU.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p><p>
-<img src="https://i.imgur.com/B1iUgPH.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p><p>
+<img src="https://imgur.com/EQqz1uU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
+<img src="https://i.imgur.com/B1iUgPH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
