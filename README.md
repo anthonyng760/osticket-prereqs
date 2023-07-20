@@ -98,3 +98,9 @@ Enable Extensions in IIS: Note that some extensions are not enabled
 <p> Refresh the osTicket site in your browse, observe the changes
 <p>
 <img src="https://imgur.com/PwQBagA.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<p>
+Rename: ost-config.php
+<p> From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+<p> To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+<p>
+<img src="https://imgur.com/vWYrOk0.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
