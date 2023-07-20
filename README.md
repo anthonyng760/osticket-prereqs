@@ -79,3 +79,11 @@ Install Osticket v1.15.8
  Rename the "upload" folder to "Osticket"
 <img src="https://imgur.com/mHmlhwo.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
 <p>
+Open IIS (Internet Information Services) > Look up IIS in the search bar and run as administrator
+<p> Go to sites -> Default -> osTicket:
+<p>
+<img src="https://imgur.com/H5YjSVg.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<p>
+On the right, click “Browse *:80” then you should see Osticket.
+<p>
+<img src="https://imgur.com/rxYZaB3.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
