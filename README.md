@@ -64,3 +64,8 @@ Now we need to install / Enable Internet Information Services(IIS) in Windows. G
 <p> Install the PHP 738 file, then create a directory "C:PHP", then unzip the contents in a c:PHP.
 <p>
 <img src="https://imgur.com/Ws9SLJt.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+</p>
+Install VC redist file
+<p> Install MySQL - typical setup > Launch configuration Wizard (after install) > standard configuration option > set your own password.
+<p>
+<img src="https://imgur.com/Q6KJ9Lz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
