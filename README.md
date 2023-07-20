@@ -114,3 +114,18 @@ New Permissions -> Everyone -> All
 <p>
 <img src="https://imgur.com/EQqz1uU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
 <img src="https://i.imgur.com/B1iUgPH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
+<p>
+Continue Setting up osTicket in the browser (click Continue)
+<img src="https://imgur.com/5xYo3oB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
+<p>
+From the Installation Files, download and install HeidiSQL.
+<p>Open Heidi SQL
+<p>Create a new session, root/Password1
+<p>Connect to the session
+<p>Create a database called “osTicket”
+<p>
+<img src="https://imgur.com/Xr2gJ79.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
+<p>
+<p>Create a new session, root/Password1
+<p>Connect to the session
+<p>
