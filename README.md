@@ -58,3 +58,9 @@ Now we need to install / Enable Internet Information Services(IIS) in Windows. G
 <br />
 <p>
 <img src="https://imgur.com/vaOJiTT.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<p>
+ Install PHP Manager for IIS.
+<p> Install the Rewrite module.
+<p> Install the PHP 738 file, then create a directory "C:PHP", then unzip the contents in a c:PHP.
+<p>
+<img src="https://imgur.com/Ws9SLJt.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
