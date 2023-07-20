@@ -113,3 +113,4 @@ Assign Permissions: ost-config.php
 New Permissions -> Everyone -> All
 <p>
 <img src="https://imgur.com/EQqz1uU.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p><p>
+<img src="https://i.imgur.com/B1iUgPH.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p><p>
