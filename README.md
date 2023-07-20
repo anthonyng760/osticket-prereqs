@@ -104,3 +104,12 @@ Rename: ost-config.php
 <p> To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 <p>
 <img src="https://imgur.com/vWYrOk0.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<p>
+Assign Permissions: ost-config.php
+<p> Disable inheritance -> Remove All
+<p>
+<img src="https://imgur.com/q8Bxilz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p><p> 
+<p>
+New Permissions -> Everyone -> All
+<p>
+<img src="https://imgur.com/EQqz1uU.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p><p>
