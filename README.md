@@ -69,3 +69,9 @@ Install VC redist file
 <p> Install MySQL - typical setup > Launch configuration Wizard (after install) > standard configuration option > set your own password.
 <p>
 <img src="https://imgur.com/Q6KJ9Lz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
+<P>
+Install Osticket v1.15.8
+<p> Download osTicket (download from within lab files: link).
+<p> Extract and copy the “upload” folder INTO c:\inetpub\wwwroot
+<p> Rename the "upload" folder to "Osticket"
+<img src="https://imgur.com/knuiOpR.png" height="100%" width="100%" alt="Disk Sanitization Steps"/></p>
