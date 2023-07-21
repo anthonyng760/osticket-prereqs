@@ -126,6 +126,21 @@ From the Installation Files, download and install HeidiSQL.
 <p>
 <img src="https://imgur.com/Xr2gJ79.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
 <p>
-<p>Create a new session, root/Password1
+<p>Create a new session, root/Ab185319
 <p>Connect to the session
 <p>
+<img src="https://imgur.com/0FMUZXj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
+<p></p>
+Create a database called “osTicket
+<p>
+<img src="https://imgur.com/EiH1qUR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
+<p>
+MySQL Database: osTicket
+<p>MySQL Username: root
+<p>MySQL Password: Ab185319
+</p>
+<img src="https://imgur.com/4Gn1Gyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
+<p>
+Click "install now", you should have this window if it's installed successfully.
+</p>
+<img src="https://imgur.com/b3KKfSe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
