@@ -144,3 +144,19 @@ MySQL Database: osTicket
 Click "install now", you should have this window if it's installed successfully.
 </p>
 <img src="https://imgur.com/b3KKfSe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
+<p>
+Clean up
+<p>
+Delete: C:\inetpub\wwwroot\osTicket\setup</p>
+<p>
+<img src="https://imgur.com/bo4EfhN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
+</p>
+Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+<p>
+<img src="https://imgur.com/JD2bzDV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
+<p>
+Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)</p>
+<p>
+<img src="https://imgur.com/x2HMGXx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p><p>
+<p>
+And there you have it! I hope this tutorial helped you with installing osTicket.
